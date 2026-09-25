@@ -27,6 +27,9 @@ Output lands in `output.csv`.
 
 ## Sample Output
 
+![Run](run.png)
+![Output](output.png)
+
 Terminal log from a real run -- note the retry-with-backoff kicking
 in and recovering gracefully instead of crashing the whole job:
 
